@@ -4,12 +4,11 @@ A bad hosts file for Bind, to block out the bad on your network!
 
 This is simply a maintained list of bad hosts in the format of bind, so that you can simply copy/paste it into your bind config and block out those unwanted domains from your network.
 
-The original author of the hosts files that I combined and edited are here:
+The original author of the host file:
 
 http://hosts-file.net/?s=Download
-http://someonewhocares.org/hosts/
 
-They get all the cedit. I simply combined, cleaned up, and made mass text edits to fit the format. 
+They get all the credit. I simply combined, cleaned up, and made mass text edits to fit the format. 
 
 ## Instructions
 
