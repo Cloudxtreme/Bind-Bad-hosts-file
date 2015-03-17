@@ -1,0 +1,8 @@
+   $TTL 24h
+
+   @       IN SOA server.com. hostmaster.com. (
+                  2003052800  86400  300  604800  3600 )
+
+   @       IN      NS   server.yourdomain.com.
+   @       IN      A    127.0.0.1
+   *       IN      A    127.0.0.1
